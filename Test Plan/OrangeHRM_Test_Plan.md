@@ -181,14 +181,8 @@ Issue has minimal impact on users.
 
 ## 16. Approval
 
-Prepared By:
+Prepared By: Sachina Oli
 
-Sachina Oli
+Role: Manual QA Tester
 
-Role:
-
-Manual QA Tester
-
-Status:
-
-Completed
+Status: Completed
