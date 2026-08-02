@@ -40,8 +40,6 @@ The following modules are included in this project:
 * Positive Testing
 * Negative Testing
 * Boundary Value Analysis
-* Equivalence Partitioning
-* Exploratory Testing
 
 ## Project Deliverables
 
@@ -53,7 +51,6 @@ The following modules are included in this project:
 * Requirement Traceability Matrix (RTM)
 * Test Execution Report
 * Test Summary Report
-* Mind Map
 
 ## Tools Used
 
@@ -75,7 +72,6 @@ manual-qa-orangehrm/
 ├── Bug Reports/
 ├── RTM/
 ├── Test Execution/
-├── Mind Map/
 └── Reports/
 ```
 
